@@ -5,7 +5,7 @@
 <br/>
 
 
-![PHP from Travis config](https://img.shields.io/travis/php-v/symfony/symfony.svg)
+![](https://img.shields.io/badge/language-swift-orange.svg)
 [![QQ群](https://img.shields.io/badge/QQ%E7%BE%A4-787381170-yellowgreen.svg)](https://jq.qq.com/?_wv=1027&k=5HPYvQk)
 
 [qq0groupsvg]: https://img.shields.io/badge/QQ%E7%BE%A4-787381170-yellowgreen.svg
