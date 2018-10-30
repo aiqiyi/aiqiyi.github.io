@@ -6,6 +6,7 @@
 
 
 ![](https://img.shields.io/badge/language-php-orange.svg)
+![](https://img.shields.io/cocoapods/v/Alamofire.svg?style=social)
 [![QQ群](https://img.shields.io/badge/QQ%E7%BE%A4-787381170-yellowgreen.svg)](https://jq.qq.com/?_wv=1027&k=5HPYvQk)
 
 [qq0groupsvg]: https://img.shields.io/badge/QQ%E7%BE%A4-787381170-yellowgreen.svg
