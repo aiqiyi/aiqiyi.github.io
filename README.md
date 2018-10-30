@@ -6,7 +6,7 @@
 
 
 [![](https://img.shields.io/badge/language-php-orange.svg)](https://github.com/aiqiyi/aiqiyi.github.io)
-![pod](https://img.shields.io/cocoapods/v/Alamofire.svg?style=social)
+[![](https://img.shields.io/cocoapods/v/Alamofire.svg?style=social)](https://github.com/aiqiyi/aiqiyi.github.io)
 
 [qq0groupsvg]: https://img.shields.io/badge/QQ%E7%BE%A4-787381170-yellowgreen.svg
 [qq0group]: https://jq.qq.com/?_wv=1027&k=5HPYvQk
